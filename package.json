@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayyreall/indo-quote.git"
+  },
   "keywords": [
     "quote",
     "indo-quote",
@@ -15,5 +19,8 @@
   ],
   "author": "Natsu062",
   "license": "ISC",
-  "dependencies": {}
+  "bugs": {
+    "url": "https://github.com/rayyreall/indo-quote/issues"
+  },
+  "homepage": "https://github.com/rayyreall/indo-quote#readme"
 }
