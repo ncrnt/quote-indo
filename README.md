@@ -1,12 +1,13 @@
 ### A Simple Indonesian Quotes.
 
 ## **Installation ⚡**
+[![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=flat&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) ![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=flat&logo=node.js)
 ```
-$ npm install indo-quote
+$ npm install quote-indo
 ```
 ## **Usage 🔰**
 ```js
-const quoteAPI = require('indo-quote');
+const quoteAPI = require('quote-indo');
 
 (async () => {
     const query = 'bucin'
@@ -24,5 +25,4 @@ const quoteAPI = require('indo-quote');
 | 4 | random | Menampilkan Quotes secara acak |
 
 ### **Links 🔗**
-* [`Instagram`](https://www.instagram.com/whyutamuu_)
 * [`Buy Me A Coffee☕ ~ Saweria`](https://saweria.co/Natsu062)
