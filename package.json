@@ -1,18 +1,17 @@
 {
-  "name": "indo-quote",
+  "name": "quotes-indo",
   "version": "1.0.7",
-  "description": "Made by @Natsu062 with love❤",
+  "description": "A Simple Indonesian Quotes Made by @Natsu062 with love❤",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rayyreall/indo-quote.git"
+    "url": "git+https://github.com/Natsu062/indo-quotes.git"
   },
   "keywords": [
     "quote",
-    "indo-quote",
     "indonesia",
     "indo",
     "quotes"
@@ -20,7 +19,7 @@
   "author": "Natsu062",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rayyreall/indo-quote/issues"
+    "url": "https://github.com/Natsu062/indo-quotes/issues"
   },
-  "homepage": "https://github.com/rayyreall/indo-quote#readme"
+  "homepage": "https://github.com/Natsu062/indo-quotes#readme"
 }
