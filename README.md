@@ -25,4 +25,4 @@ const quoteAPI = require('indo-quote');
 
 ### **Links 🔗**
 * [`Instagram`](https://www.instagram.com/whyutamuu_)
-* [`Buy Me A Coffee☕ ~ Saweria`](https://saweria.co/RayyNihBOSS)
+* [`Buy Me A Coffee☕ ~ Saweria`](https://saweria.co/Natsu062)
