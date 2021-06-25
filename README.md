@@ -21,6 +21,7 @@ const quoteAPI = require('indo-quote');
 | 1 | bucin | Menampilkan Quote-quote bucin |
 | 2 | galau | Menampilkan Quote-quote menggalau |
 | 3 | kehidupan | Menampilkan Quote-quote tentang kehidupan |
+| 4 | random | Menampilkan Quotes secara acak |
 
 ### **Links 🔗**
 * [`Instagram`](https://www.instagram.com/whyutamuu_)
