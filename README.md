@@ -1,4 +1,4 @@
-### A Simple Indonesian Quotes.
+### A Simple Indonesian Quotes API.
 
 ## **Installation ⚡**
 [![NPM INSTALL](http://img.shields.io/badge/npm-install-blue.svg?style=flat&logo=npm)](https://docs.npmjs.com/getting-started/installing-npm-packages-locally) ![NODE JS](http://img.shields.io/badge/Node-JS-teal.svg?style=flat&logo=node.js)
