@@ -1,25 +1,26 @@
 {
-  "name": "quotes-indo",
-  "version": "1.0.7",
-  "description": "A Simple Indonesian Quotes Made by @Natsu062 with love❤",
+  "name": "quote-indo",
+  "version": "1.1.0",
+  "description": "A Simple Indonesian Quotes API Made by @Yuzaki01 with love❤",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Natsu062/indo-quotes.git"
+    "url": "git+https://github.com/Yuzaki01/quote-indo.git"
   },
   "keywords": [
     "quote",
     "indonesia",
     "indo",
-    "quotes"
+    "quotes",
+    "quote-indo"
   ],
-  "author": "Natsu062",
-  "license": "ISC",
+  "author": "Yuu",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Natsu062/indo-quotes/issues"
+    "url": "https://github.com/Yuzaki01/quote-indo/issues"
   },
-  "homepage": "https://github.com/Natsu062/indo-quotes#readme"
+  "homepage": "https://github.com/Yuzaki01/quote-indo#readme"
 }
