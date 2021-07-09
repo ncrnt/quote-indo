@@ -5,7 +5,7 @@
 ```
 $ npm install quote-indo
 ```
-## **Usage 🔰**
+### **Usage 🔰**
 ```js
 const quoteAPI = require('quote-indo');
 
