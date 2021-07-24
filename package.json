@@ -1,6 +1,6 @@
 {
   "name": "quote-indo",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A Simple Indonesian Quotes API Made by @Yuzaki01 with love❤",
   "main": "index.js",
   "scripts": {
